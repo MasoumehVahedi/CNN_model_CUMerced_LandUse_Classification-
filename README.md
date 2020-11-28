@@ -27,10 +27,10 @@ Each class consist of 100 images including:
 
 Each image 256x256 pixels. The images were manually extracted from large images from the USGS National Map Urban Area Imagery collection for various urban areas in the US. The pixes resolution of the images is 1 foot.
 
-Dataset:
+# Dataset:
 
 The UC Merced LandUse dataset is availabe here: http://weegee.vision.ucmerced.edu/datasets/landuse.html
 
-Reference:
+# Reference:
 
 Yi Yang and Shawn Newsam, "Bag-Of-Visual-Words and Spatial Extensions for Land-Use Classification," ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (ACM GIS), 2010.
